@@ -1,0 +1,4 @@
+node_modules/
+/blob-report/
+*.DS_Store
+.env/
